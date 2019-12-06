@@ -8,7 +8,9 @@ function App() {
     <div className="App">
       <button
         onClick={
-          ()=>setCount(parseInt(Math.random()*10))
+          ()=>setCount((prevCount) => {
+            return prevCount + 1
+          })
         }
       >setCount</button>
       <p>count:{count}</p>
