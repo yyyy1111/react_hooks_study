@@ -1,0 +1,142 @@
+{
+    "root": {
+        "data": {
+            "id": "c41xt2kkfns0",
+            "created": 1594282014609,
+            "text": "前端知识体系"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "c41xz1qb5eo0",
+                    "created": 1594282482964,
+                    "text": "HTML"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41xz4dfl8g0",
+                    "created": 1594282488716,
+                    "text": " CSS"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41xzbrdav40",
+                    "created": 1594282504796,
+                    "text": "JS"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41xzd2yfag0",
+                    "created": 1594282507673,
+                    "text": "topic"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41xze7pzso0",
+                    "created": 1594282510138,
+                    "text": "TS"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y16pc1c00",
+                    "created": 1594282650517,
+                    "text": "正则"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y18jioyo0",
+                    "created": 1594282654519,
+                    "text": "算法"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y1itz50o0",
+                    "created": 1594282676919,
+                    "text": "数据结构"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y1wsxq000",
+                    "created": 1594282707331,
+                    "text": "计算机网络"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y1xu1knk0",
+                    "created": 1594282709575,
+                    "text": "浏览器工作原理"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y1zbige80",
+                    "created": 1594282712808,
+                    "text": "前端工程化"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y2073vb40",
+                    "created": 1594282714719,
+                    "text": "框架/库"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y2o7ih9c0",
+                    "created": 1594282766986,
+                    "text": "多端开发"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y2sxtrgo0",
+                    "created": 1594282777284,
+                    "text": "性能调优"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y2xb1gdc0",
+                    "created": 1594282786790,
+                    "text": "安全"
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "c41y367uusg0",
+                    "created": 1594282806189,
+                    "text": "node"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
