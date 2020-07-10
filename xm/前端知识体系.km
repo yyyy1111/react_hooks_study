@@ -310,9 +310,27 @@
                 "data": {
                     "id": "c41y2o7ih9c0",
                     "created": 1594282766986,
-                    "text": "多端开发"
+                    "text": "多端开发",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c42lzttywug0",
+                            "created": 1594350250773,
+                            "text": "taro"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c42lzwc996w0",
+                            "created": 1594350256232,
+                            "text": "flutter"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
