@@ -10,7 +10,8 @@
                 "data": {
                     "id": "c41xz1qb5eo0",
                     "created": 1594282482964,
-                    "text": "HTML"
+                    "text": "HTML",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -51,7 +52,8 @@
                 "data": {
                     "id": "c41xz4dfl8g0",
                     "created": 1594282488716,
-                    "text": " CSS"
+                    "text": " CSS",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -108,7 +110,8 @@
                 "data": {
                     "id": "c41xzbrdav40",
                     "created": 1594282504796,
-                    "text": "JS"
+                    "text": "JS",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -221,17 +224,37 @@
                 "data": {
                     "id": "c41y16pc1c00",
                     "created": 1594282650517,
-                    "text": "正则"
+                    "text": "正则",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c42lxge3qp40",
+                            "created": 1594350064787,
+                            "text": "正则基本语法"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "c41y18jioyo0",
                     "created": 1594282654519,
-                    "text": "算法"
+                    "text": "算法",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c42lxmy7i4g0",
+                            "created": 1594350079063,
+                            "text": "刷leetcode"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
@@ -269,9 +292,19 @@
                 "data": {
                     "id": "c41y2073vb40",
                     "created": 1594282714719,
-                    "text": "框架/库"
+                    "text": "框架/库",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c42ly07czx40",
+                            "created": 1594350107915,
+                            "text": "react"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
