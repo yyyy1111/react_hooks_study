@@ -118,17 +118,109 @@
                         "data": {
                             "id": "c41ycolr8kg0",
                             "created": 1594283551489,
-                            "text": "js基础知识"
+                            "text": "js基础知识",
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c45454ykbko0",
+                                    "created": 1594604566708,
+                                    "text": "声明"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545650iog0",
+                                    "created": 1594604569275,
+                                    "text": "内置类型"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c45456f8v5k0",
+                                    "created": 1594604569893,
+                                    "text": "typeof的使用"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c454574d8bk0",
+                                    "created": 1594604571412,
+                                    "text": "数据类型的转换"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c45457e7z6g0",
+                                    "created": 1594604572008,
+                                    "text": "转义字符"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c45457m30yw0",
+                                    "created": 1594604572484,
+                                    "text": "运算符"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
                             "id": "c41ycplx9a80",
                             "created": 1594283553676,
-                            "text": "调用堆栈"
+                            "text": "调用堆栈",
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4545b0coi00",
+                                    "created": 1594604579877,
+                                    "text": "执行上下文"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545bp4axs0",
+                                    "created": 1594604581374,
+                                    "text": "执行上下文栈和变量对象"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545c60hhc0",
+                                    "created": 1594604582396,
+                                    "text": "内存空间"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545cirpq00",
+                                    "created": 1594604583167,
+                                    "text": "内存机制"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545cs6f2w0",
+                                    "created": 1594604583736,
+                                    "text": "常见内存泄漏及如何避免"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -174,9 +266,35 @@
                         "data": {
                             "id": "c41ycvfnf6g0",
                             "created": 1594283566357,
-                            "text": "面向对象三要素"
+                            "text": "面向对象三要素",
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4545w58dbs0",
+                                    "created": 1594604625884,
+                                    "text": "封装"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545x4egg00",
+                                    "created": 1594604628011,
+                                    "text": "继承"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4545xg0fjk0",
+                                    "created": 1594604628713,
+                                    "text": "多态"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -190,17 +308,77 @@
                         "data": {
                             "id": "c41zaejh55s0",
                             "created": 1594286193965,
-                            "text": "异步"
+                            "text": "异步",
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4546ut4t0w0",
+                                    "created": 1594604701340,
+                                    "text": "回调函数"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4546veid6o0",
+                                    "created": 1594604702633,
+                                    "text": "promise"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4546vjg28g0",
+                                    "created": 1594604702931,
+                                    "text": "generator"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4546vvjzxc0",
+                                    "created": 1594604703663,
+                                    "text": "async/await"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
                             "id": "c41zaflmfgw0",
                             "created": 1594286196271,
-                            "text": "函数式编程"
+                            "text": "函数式编程",
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4546onj5h40",
+                                    "created": 1594604687941,
+                                    "text": "偏应用"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4546pa883s0",
+                                    "created": 1594604689313,
+                                    "text": "函数柯里化"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4546phwop40",
+                                    "created": 1594604689777,
+                                    "text": "组合函数"
+                                },
+                                "children": []
+                            }
+                        ]
                     },
                     {
                         "data": {
@@ -209,6 +387,50 @@
                             "text": "es6+"
                         },
                         "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4545n66l5c0",
+                            "created": 1594604606351,
+                            "text": "深入数组",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4545sprmgo0",
+                                    "created": 1594604618419,
+                                    "text": "数组扁平化的6种实现方式"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c45465qv5yo0",
+                            "created": 1594604646783,
+                            "text": "v8引擎工作原理",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c4546l1x55s0",
+                                    "created": 1594604680103,
+                                    "text": "垃圾回收机制"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c4546lesoeo0",
+                                    "created": 1594604680882,
+                                    "text": "event loop"
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -260,7 +482,8 @@
                 "data": {
                     "id": "c41y1itz50o0",
                     "created": 1594282676919,
-                    "text": "数据结构"
+                    "text": "数据结构",
+                    "expandState": "collapse"
                 },
                 "children": [
                     {
@@ -293,25 +516,254 @@
                 "data": {
                     "id": "c41y1wsxq000",
                     "created": 1594282707331,
-                    "text": "计算机网络"
+                    "text": "计算机网络",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c453re3mrm80",
+                            "created": 1594603489507,
+                            "text": "网络基本知识"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453rhguy9s0",
+                            "created": 1594603496837,
+                            "text": "http"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453rilfzio0",
+                            "created": 1594603499291,
+                            "text": "https"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453rk9wmz40",
+                            "created": 1594603502947,
+                            "text": "tcp、ip"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453rlbsm4g0",
+                            "created": 1594603505238,
+                            "text": "网路安全"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "c41y1xu1knk0",
                     "created": 1594282709575,
-                    "text": "浏览器工作原理"
+                    "text": "浏览器工作原理",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c453tmfpmio0",
+                            "created": 1594603664380,
+                            "text": "浏览器缓存"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c453vvhezvs0",
+                                    "created": 1594603840802,
+                                    "text": "缓存类型"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453vwsfh600",
+                                    "created": 1594603843645,
+                                    "text": "缓存位置"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453vxtrfso0",
+                                    "created": 1594603845903,
+                                    "text": "缓存过程分析"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "c453uafsg800",
+                            "created": 1594603716628,
+                            "text": "http请求流程"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453ubrd16w0",
+                            "created": 1594603719504,
+                            "text": "导航流程"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453ucw7n0o0",
+                            "created": 1594603721974,
+                            "text": "渲染流程"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c453udskw800",
+                            "created": 1594603723931,
+                            "text": "缓存机制"
+                        },
+                        "children": []
+                    }
+                ]
             },
             {
                 "data": {
                     "id": "c41y1zbige80",
                     "created": 1594282712808,
-                    "text": "前端工程化"
+                    "text": "前端工程化",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c453wxdqzyg0",
+                            "created": 1594603923298,
+                            "text": "webpack",
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "基础知识",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "构建方式",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "配置",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "优化",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "babel",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "loader",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "library",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "react-loader",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "webpack的基础插件",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
             },
             {
                 "data": {
@@ -325,9 +777,84 @@
                         "data": {
                             "id": "c42ly07czx40",
                             "created": 1594350107915,
-                            "text": "react"
+                            "text": "react",
+                            "expandState": "collapse"
                         },
-                        "children": []
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "react-router",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "redux",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "c453xqybez40",
+                                            "created": 1594603987669,
+                                            "text": "redux的前世今生",
+                                            "layout_left_offset": {
+                                                "x": -49.99999925494194,
+                                                "y": -23.749999646097365
+                                            }
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "react 源码相关",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "react-dom",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "c453xqybez40",
+                                    "created": 1594603987669,
+                                    "text": "相关插件",
+                                    "layout_left_offset": {
+                                        "x": -4.999999925494194,
+                                        "y": -57.49999914318323
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -367,19 +894,45 @@
             },
             {
                 "data": {
-                    "id": "c41y2xb1gdc0",
-                    "created": 1594282786790,
-                    "text": "安全"
-                },
-                "children": []
-            },
-            {
-                "data": {
                     "id": "c41y367uusg0",
                     "created": 1594282806189,
-                    "text": "node"
+                    "text": "node",
+                    "expandState": "collapse"
                 },
-                "children": []
+                "children": [
+                    {
+                        "data": {
+                            "id": "c4541iu04hc0",
+                            "created": 1594604283450,
+                            "text": "基础语法"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4541kpbn8g0",
+                            "created": 1594604287521,
+                            "text": "中间件"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4541kzxihc0",
+                            "created": 1594604288162,
+                            "text": "服务构建"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "c4541lfid1s0",
+                            "created": 1594604289104,
+                            "text": "数据库"
+                        },
+                        "children": []
+                    }
+                ]
             }
         ]
     },
