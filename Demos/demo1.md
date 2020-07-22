@@ -41,8 +41,14 @@
 #### bfc
 ##### ![bfc盒子模型图片](./public/box.png)
 * 盒模型：w3c与怪异盒模型的区别
+* w3c :
+* ie 盒子：
 ###### 
 * margin,padding,border,content的分布
+1. margin：外边距（框框与外边的距离）
+2. padding：内边距（内容与边框的距离）
+3. border：边框
+4. content：内容
 #### 垂直水平居中
 #### 经典布局
 #### cs3
