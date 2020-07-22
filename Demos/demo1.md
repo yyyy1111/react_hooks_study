@@ -27,11 +27,21 @@
 * DOM：link引入的样式可以通过js操作dom来改变，而@import不能。
 * 权重：link引入的样式的权重高于@import的权重。
 6. 宽高的获取方式
+* 文档相关宽高：https://www.cnblogs.com/yulintianxia/p/9385595.html
 7. display 相关
+* display:none;
+* display:block;
+* display:inline;
+* display:inline-block;
+* display:flex;
+* display:table;
+* display:grid;
 #### 伪类
 * :nth-child,:after,等
 #### bfc
+##### ![./public/box.png]
 * 盒模型：w3c与怪异盒模型的区别
+###### 
 * margin,padding,border,content的分布
 #### 垂直水平居中
 #### 经典布局
