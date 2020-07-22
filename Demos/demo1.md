@@ -39,7 +39,7 @@
 #### 伪类
 * :nth-child,:after,等
 #### bfc
-##### ![./public/box.png]
+##### ![bfc盒子模型图片](./public/box.png)
 * 盒模型：w3c与怪异盒模型的区别
 ###### 
 * margin,padding,border,content的分布
