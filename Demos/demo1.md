@@ -50,7 +50,20 @@
 3. border：边框
 4. content：内容
 #### 垂直水平居中
+##### 1.固定宽高：固定宽高的意思就是要居中的这个元素它的宽高都是固定的值。
+* position absolute + 负margin
+* position absolute + margin auto
+* position absolute + calc
+##### 2.不固定宽高
+* position absolute + transform
+* css-table
+* flex
+* grid
 #### 经典布局
+1. 两列布局
+2. 三栏式布局
+ * 圣杯布局
+ * 双飞翼布局
 #### cs3
 #### 常见兼容css的hack
 1. 防止高度塌陷的常见方法：
