@@ -39,6 +39,12 @@
 #### 伪类
 * :nth-child,:after,等
 #### bfc
+##### 块级格式化上下分，bfc内部的样式不会和外部互相影响，用来解决高度塌陷，浮动的问题
+1. 根元素
+2. float属性不为none;
+3. display属性为:line-block,table-cell,line-flex,flex
+4. position属性不为:static,relative;
+5. overflow属性不为:visible;
 ##### ![bfc盒子模型图片](./public/box.png)
 * 盒模型：w3c与怪异盒模型的区别
 * w3c :margin+padding+border+content
